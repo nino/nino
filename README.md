@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nino
-- 👀 I’m interested in OCaml and ReScript.
-- 🌱 I’m currently learning OCaml and ReScript.
-- 💞️ I’m looking to collaborate on OCaml and ReScript.
+- 👀 Oh god, it’s happened. I’m interested in Rust now.
+- 🌱 I’m currently learning Rust, why am I doing this to myself 😢.
+- 💞️ I’m looking to collaborate on Rust.
 - 📫 How to reach me: ninoan.com
 
